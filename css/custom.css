@@ -1,0 +1,43 @@
+.fela{
+    display: none;
+}
+
+.value{
+    text-align: center;
+    color: white;
+}
+.value h1 {
+    border: 1px solid white;
+    border-radius: 50%;
+    width: 1.8em;
+    margin: 0 auto;
+    padding: .4em;
+}
+
+.halli{
+    transform: rotate(5deg);
+    padding-left: 10em;
+    width: 50%;
+}
+
+.midja{
+    padding-top: 8em;
+    text-align: center;
+}
+.bgimg{
+    background-image: url('../images/values-bg.jpeg');
+    background-repeat: no-repeat; 
+    background-size: cover;
+    padding: 2em;
+}   
+img.a{
+    padding-top: 3em;
+}
+.texti{
+    text-align: left;
+}
+.footer{
+    padding: 2em 2em 1em 2em;
+    background-color: #7aecd6;
+    width: 100%;
+}
